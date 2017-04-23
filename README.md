@@ -1,4 +1,4 @@
-# reproducible_data_analysis
+# How to make a reproducible data analysis
 This is just me coding along with Jake's excellent Youtube series on making a
 Jupyter notebook into an app.
 
